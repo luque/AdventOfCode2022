@@ -21,3 +21,9 @@ BaselineOfAdventOfCode2022 >> baseline: spec [
 			with: #( 'AdventOfCode2022-Tests' );
 			group: 'default' with: #( 'Core' 'CoreTests' ) ]
 ]
+
+{ #category : #baselines }
+BaselineOfAdventOfCode2022 >> dependencies: spec [
+	"TODO: add third-party dependencies"
+	
+]
